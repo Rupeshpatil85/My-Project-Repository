@@ -15,4 +15,4 @@ Retrieve Search Results:
 3] After the search results load, locate the first bat listed. This will typically be the first item in the search results.
 Extract the Price:
 
-3] Identify the price of the first bat. This can usually be found below the product title in the search results.
+4] Identify the price of the first bat. This can usually be found below the product title in the search results.
